@@ -1,3 +1,23 @@
+## A Simple Recipe App
+ 
+## Built With:
+React.js
+CSS
+
+## Motivation:
+To provide users with simple and creative meals to cook with the main ingredients they have
+To inform them of the approximate number of calories in these meals
+
+## To Use:
+Type in an ingredient in the search box, e.g. chicken and press search
+
+A list of chicken-based recipes with their corresponding calories and pictures will be displayed
+
+Head to the kitchen and cook to your heart's content
+
+Or take screenshots
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
