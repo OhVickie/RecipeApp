@@ -17,6 +17,17 @@ Head to the kitchen and cook to your heart's content
 
 Or take screenshots
 
+## Screenshots
+## Default Screen when app is opened:
+![image](https://user-images.githubusercontent.com/52611435/72639001-af467600-3932-11ea-8fe0-1abb30a31433.png)
+
+## "Chicken" typed into Search bar before clicking on search icon:
+![image](https://user-images.githubusercontent.com/52611435/72639139-f3397b00-3932-11ea-937a-908787c7ed42.png)
+
+## Results displayed after clicking search icon:
+![image](https://user-images.githubusercontent.com/52611435/72639285-398eda00-3933-11ea-9c8b-0ea9fc5d975c.png)
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
